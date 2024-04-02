@@ -23,7 +23,7 @@ The Package Delivery System aims to simulate a basic package delivery service. I
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/package-delivery-system.git
+    https://github.com/SudhakaranGT/Package-Delivery-System.git
     ```
 
 2. Navigate to the project directory:
